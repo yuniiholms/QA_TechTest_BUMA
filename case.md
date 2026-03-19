@@ -62,4 +62,5 @@ WeMine is a b2b saas product that has purpose to help people that work in mining
 
 ## What to do
 
-Create cases for each flow and some other things that might need tests, explain why you pick the test method, create your cases [here](./testcases/readme.md)
+1. Create cases for each flow, show us you can create a new repository to handle automation, and write few example for the most of importances.
+2. Explain why you pick the test tools, write down your cases [here](./testcases/readme.md)
